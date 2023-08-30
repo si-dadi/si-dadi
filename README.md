@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA, Full Stack Web-Dev and AI**
 
-- 📫 How to reach me **shoban.dash@gmail.com**
+- 📫 Reach me at: **shoban.dash@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KxxXmnK1lubH5WkOW8uDF5j1WBw-u6o4/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
